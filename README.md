@@ -1,4 +1,4 @@
-#SV_passer  
+#Save'em!  
 
 Simple password manager. Stores your data locally, has no any sync/auto_insert functions. Just private storage of your data.
 uses AES 256 encryption.  
